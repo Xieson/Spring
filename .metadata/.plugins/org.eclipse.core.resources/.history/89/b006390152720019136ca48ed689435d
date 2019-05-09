@@ -1,0 +1,7 @@
+package clq.Springservice;
+
+public class SpringService {
+	public void flle(){
+		System.out.println("Springservlet.........");
+	}
+}

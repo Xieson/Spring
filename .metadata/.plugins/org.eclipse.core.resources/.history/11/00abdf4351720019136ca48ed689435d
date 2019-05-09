@@ -1,0 +1,7 @@
+package clq.SpringDao;
+
+public class Springdao {
+	public void add(){
+		System.out.println("Springdao......");
+	}
+}
